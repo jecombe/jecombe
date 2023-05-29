@@ -23,11 +23,12 @@
 
 ### Technologies & Frameworks
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/next-black?style=for-the-badge&logo=next)
+![Next](https://img.shields.io/badge/nextdotjs-black?style=for-the-badge&logo=nextdotjs)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
 ### OS
 ![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
+![MacOs](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=macos)
 
 <details>
 <p align="center">
