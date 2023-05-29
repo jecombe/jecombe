@@ -23,7 +23,7 @@
 
 ### Technologies & Frameworks
 ![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)
-![Next](https://img.shields.io/badge/nextdotjs-black?style=for-the-badge&logo=nextdotjs)
+![Next](https://img.shields.io/badge/next-black?style=for-the-badge&logo=nextdotjs)
 ![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)
 
 ### OS
