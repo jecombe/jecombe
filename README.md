@@ -126,8 +126,8 @@ MCP tooling and LLM integrations are part of my daily stack, not a gimmick.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=jecombe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jecombe&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=06b6d4&bg_color=0d1117&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html" alt="top langs" />
+  <img height="180" src="https://grs-jecombe.vercel.app/api?username=jecombe&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight&title_color=06b6d4&icon_color=7c3aed&bg_color=0d1117" alt="stats" />
+  <img height="180" src="https://grs-jecombe.vercel.app/api/top-langs/?username=jecombe&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&title_color=06b6d4&bg_color=0d1117&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html" alt="top langs" />
 </p>
 
 <p align="center">
